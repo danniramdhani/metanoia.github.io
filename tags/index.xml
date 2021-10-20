@@ -28,5 +28,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>notes</title>
+      <link>http://metanoia.my.id/tags/notes/</link>
+      <pubDate>Wed, 20 Oct 2021 11:01:18 +0700</pubDate>
+      
+      <guid>http://metanoia.my.id/tags/notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reminder</title>
+      <link>http://metanoia.my.id/tags/reminder/</link>
+      <pubDate>Wed, 20 Oct 2021 11:01:18 +0700</pubDate>
+      
+      <guid>http://metanoia.my.id/tags/reminder/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
