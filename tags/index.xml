@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on METANOIA</title>
     <link>http://metanoia.my.id/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on METANOIA</description>
+    <image>
+      <url>http://metanoia.my.id/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://metanoia.my.id/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://metanoia.my.id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Oct 2021 11:01:18 +0700</lastBuildDate><atom:link href="http://metanoia.my.id/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>inspirasi</title>
+      <link>http://metanoia.my.id/tags/inspirasi/</link>
+      <pubDate>Wed, 20 Oct 2021 11:01:18 +0700</pubDate>
+      
+      <guid>http://metanoia.my.id/tags/inspirasi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>motivasi</title>
+      <link>http://metanoia.my.id/tags/motivasi/</link>
+      <pubDate>Wed, 20 Oct 2021 11:01:18 +0700</pubDate>
+      
+      <guid>http://metanoia.my.id/tags/motivasi/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

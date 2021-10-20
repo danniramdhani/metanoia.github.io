@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://metanoia.my.id/sitemap.xml

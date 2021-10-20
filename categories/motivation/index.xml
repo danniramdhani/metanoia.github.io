@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>METANOIA</title>
-    <link>http://metanoia.my.id/</link>
-    <description>Recent content on METANOIA</description>
+    <title>Motivation on METANOIA</title>
+    <link>http://metanoia.my.id/categories/motivation/</link>
+    <description>Recent content in Motivation on METANOIA</description>
     <image>
       <url>http://metanoia.my.id/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://metanoia.my.id/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Oct 2021 11:01:18 +0700</lastBuildDate><atom:link href="http://metanoia.my.id/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Oct 2021 11:01:18 +0700</lastBuildDate><atom:link href="http://metanoia.my.id/categories/motivation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Memulai</title>
       <link>http://metanoia.my.id/posts/memulai/</link>
@@ -19,7 +19,6 @@
       <description>Apa yang cenderung kita lakukan saat tak ada inspirasi? Saat diri begitu kekeringan motivasi? Kebanyakan diam dan menunggu. Tentu ada juga mereka yang lebih baik, salah satunya dengan melakukan aksi yang bersifat pasif seperti ehm membaca tulisan ini.
 Apapun yang kita lakukan, hampir tak ada gunanya bila kita tak membuat aksi nyata. Aksi untuk mendulang inspirasi dan motivasi. Bagaimana caranya? Dengan melakukan perubahan sederhana. Apa itu? Dengan memaksakan diri untuk mengambil langkah pertama setiap harinya.</description>
     </item>
-    
     
   </channel>
 </rss>

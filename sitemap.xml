@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://metanoia.my.id/posts/my-first-post/</loc>
+    <loc>http://metanoia.my.id/categories/</loc>
+    <lastmod>2021-10-20T11:01:18+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://metanoia.my.id/tags/inspirasi/</loc>
+    <lastmod>2021-10-20T11:01:18+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://metanoia.my.id/categories/life-lessons/</loc>
+    <lastmod>2021-10-20T11:01:18+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://metanoia.my.id/posts/memulai/</loc>
     <lastmod>2021-10-20T11:01:18+07:00</lastmod>
   </url>
   
@@ -13,16 +28,32 @@
   </url>
   
   <url>
+    <loc>http://metanoia.my.id/tags/motivasi/</loc>
+    <lastmod>2021-10-20T11:01:18+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://metanoia.my.id/categories/motivation/</loc>
+    <lastmod>2021-10-20T11:01:18+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://metanoia.my.id/posts/</loc>
     <lastmod>2021-10-20T11:01:18+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://metanoia.my.id/categories/</loc>
+    <loc>http://metanoia.my.id/categories/self-reminder/</loc>
+    <lastmod>2021-10-20T11:01:18+07:00</lastmod>
   </url>
   
   <url>
     <loc>http://metanoia.my.id/tags/</loc>
+    <lastmod>2021-10-20T11:01:18+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://metanoia.my.id/archives/</loc>
   </url>
   
 </urlset>
