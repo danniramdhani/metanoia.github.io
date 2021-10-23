@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>notes on METANOIA</title>
-    <link>https://metanoia.my.id/tags/notes/</link>
-    <description>Recent content in notes on METANOIA</description>
+    <title>tips on METANOIA</title>
+    <link>https://metanoia.my.id/tags/tips/</link>
+    <description>Recent content in tips on METANOIA</description>
     <image>
       <url>https://metanoia.my.id/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://metanoia.my.id/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 23 Oct 2021 12:45:40 +0700</lastBuildDate><atom:link href="https://metanoia.my.id/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Oct 2021 12:45:40 +0700</lastBuildDate><atom:link href="https://metanoia.my.id/tags/tips/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jeda</title>
       <link>https://metanoia.my.id/posts/jeda/</link>
@@ -20,16 +20,6 @@
 Setelah mampu memulai sesuatu dan mendorong perhatian kita sepenuhnya pada hal tersebut, ada kalanya kita sulit berhenti. Jeda pun enggan.
 Terkadang kita terlalu keras pada diri sendiri. Baru boleh berhenti apabila apa yang kita kerjakan saat itu sudah selesai. Bila tak kunjung selesai? Tentu beberapa masalah akan muncul.
 Penat mulai merambat. Otak mengeruh. Rasa frustasi mulai tumbuh. Emosi tak terkontrol, membuat kita marah-marah tak karuan.</description>
-    </item>
-    
-    <item>
-      <title>Memulai</title>
-      <link>https://metanoia.my.id/posts/memulai/</link>
-      <pubDate>Wed, 20 Oct 2021 11:01:18 +0700</pubDate>
-      
-      <guid>https://metanoia.my.id/posts/memulai/</guid>
-      <description>Apa yang cenderung kita lakukan saat tak ada inspirasi? Saat diri begitu kekeringan motivasi? Kebanyakan diam dan menunggu. Ada juga yang mencarinya secara pasif, seperti ehm membaca tulisan ini atau menonton video di YouTube.
-Apa saja yang kita lakukan, hampir tak ada gunanya bila kita tak membuat aksi nyata. Aksi untuk mendulang inspirasi dan motivasi. Bagaimana caranya? Dengan melakukan perubahan sederhana. Apa itu? Dengan memaksakan diri untuk mengambil langkah pertama setiap harinya.</description>
     </item>
     
   </channel>
